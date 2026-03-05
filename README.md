@@ -1,4 +1,4 @@
-Aero Clear Tint — KDE Plasma 6 Window Theme
+Win7k-kde6 — KDE Plasma 6 Window Theme
 A KDE Window Decoration theme for Plasma 6 that emulates the translucent Aero glass aesthetic, featuring a clear tint effect inspired by the classic Windows Aero visual style.
 This project is a fork of the original theme available at https://store.kde.org/p/1002656, updated and adapted for compatibility with KDE Plasma 6.
 
